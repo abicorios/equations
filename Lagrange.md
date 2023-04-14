@@ -10,4 +10,4 @@ $=\int\limits_{t_1}^{t_2} \frac{d}{dt} (\frac{\partial L}{\partial \dot{q}} \del
 
 $= \int\limits_{t_1}^{t_2} d (\frac{\partial L}{\partial \dot{q}} \delta q) + \int\limits_{t_1}^{t_2} (\frac{\partial L}{\partial q} - (\frac{d}{dt}\frac{\partial L}{\partial \dot{q}}))\delta q dt =$
 
-$= \frac{\partial L}{\partial \dot{q}} \delta q \Big |_{t_1}^{t_2} + \int\limits_{t_1}^{t_2} (\frac{\partial L}{\partial q} - (\frac{d}{dt}\frac{\partial L}{\partial \dot{q}}))\delta q dt $
+$= \frac{\partial L}{\partial \dot{q}} \delta q \Big|\_{t_1}^{t_2} + \int\limits_{t_1}^{t_2} (\frac{\partial L}{\partial q} - (\frac{d}{dt}\frac{\partial L}{\partial \dot{q}}))\delta q dt $
